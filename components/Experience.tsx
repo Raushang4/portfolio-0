@@ -10,7 +10,7 @@ const Experience = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <ExperienceCard
           title="web development "
-          subTitle="Web Developer 2021 - Present"
+          subTitle="Web Developer 2019 - Present"
           icon={<SiReactivex />}
         />
         <ExperienceCard

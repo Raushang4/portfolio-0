@@ -16,15 +16,15 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
           img={amazonClone.src}
-          title="Amazon Clone"
-          link="https://amazonclone.reactbd.com/"
+          title="Erasor Clone"
+          link="https://erasor-orpin.vercel.app/"
         />
-        <ProjectCard
+        {/* <ProjectCard
           img={reactBD.src}
           title="Cyber Security"
           link="https://reactbd.com/"
-        />
-        <ProjectCard
+        /> */}
+        {/* <ProjectCard
           img={cyberBlog.src}
           title="Cyber Security"
           link="https://blog.reactbd.com/"
@@ -44,7 +44,7 @@ const Projects = () => {
           img={dashboard.src}
           title="Dashboard"
           link="https://orebishopping.reactbd.com/"
-        />
+        /> */}
       </div>
     </div>
   );
