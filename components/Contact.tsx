@@ -26,9 +26,9 @@ const Contact = () => {
         />
         <SocialLink
           title="Facebook"
-          link="https://www.facebook.com/raushang4/"
+          link="https://www.facebook.com/raushang-4/"
         />
-        <SocialLink title="Resume" link="https://vercel.com/raushang4" />
+        <SocialLink title="Resume" link="https://drive.google.com/file/d/1AjkrB84dBvHgnSPm5k-yFHbLVCD4TpMT/view?usp=sharing" />
       </div>
     </div>
   );
