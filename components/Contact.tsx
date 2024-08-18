@@ -25,8 +25,8 @@ const Contact = () => {
           link="https://www.linkedin.com/in/raushang4/"
         />
         <SocialLink
-          title="Facebook"
-          link="https://www.facebook.com/raushang-4/"
+          title="Appointment"
+          link="https://topmate.io/raushang4/"
         />
         <SocialLink
           title="Resume"
